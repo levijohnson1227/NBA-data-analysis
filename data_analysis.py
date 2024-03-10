@@ -44,7 +44,7 @@ while selection != 0:
             plt.title("Career Averages Across Different Statistics")
             plt.xlabel('Statistics')
             plt.ylabel('Average Value')
-            plt.xticks(rotation=45)  # Rotate the x-axis labels for better readability
+            plt.xticks(rotation=45) 
             plt.grid(True)
             plt.tight_layout()
 
